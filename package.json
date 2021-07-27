@@ -2,6 +2,10 @@
   "name": "altair-static-slim",
   "version": "4.0.8",
   "description": "Slim version of altair-static without any dependency",
+  "keywords": [
+    "altair",
+    "graphql"
+  ],
   "license": "MIT",
   "author": "PabloSzx <pablosaez1995@gmail.com>",
   "main": "build/index.js",
