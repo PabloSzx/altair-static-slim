@@ -6,6 +6,10 @@
     "altair",
     "graphql"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PabloSzx/altair-static-slim"
+  },
   "license": "MIT",
   "author": "PabloSzx <pablosaez1995@gmail.com>",
   "main": "build/index.js",

@@ -10,5 +10,5 @@ I made this package because [altair-static](https://npm.im/altair-static) has [a
 Check [altair-static source code](https://github.com/altair-graphql/altair/tree/staging/packages/altair-static)
 
 
-I will republishing this package whenever altair has a new release.
+I will be re-publishing this package whenever altair has a new release.
 
