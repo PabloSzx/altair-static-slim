@@ -1,6 +1,6 @@
 {
   "name": "altair-static-slim",
-  "version": "1.0.0",
+  "version": "4.0.8",
   "description": "Slim version of altair-static without any dependency",
   "license": "MIT",
   "author": "PabloSzx <pablosaez1995@gmail.com>",
@@ -20,8 +20,8 @@
     "@types/concurrently": "^6.2.1",
     "@types/fs-extra": "^9.0.12",
     "@types/node": "^16.4.3",
-    "altair-graphql-core": "^4.0.8",
-    "altair-static": "^4.0.8",
+    "altair-graphql-core": "4.0.8",
+    "altair-static": "4.0.8",
     "concurrently": "^6.2.0",
     "dts-bundle-generator": "^5.9.0",
     "esbuild-register": "^2.6.0",

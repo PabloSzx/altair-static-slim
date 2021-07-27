@@ -4,8 +4,8 @@ specifiers:
   '@types/concurrently': ^6.2.1
   '@types/fs-extra': ^9.0.12
   '@types/node': ^16.4.3
-  altair-graphql-core: ^4.0.8
-  altair-static: ^4.0.8
+  altair-graphql-core: 4.0.8
+  altair-static: 4.0.8
   concurrently: ^6.2.0
   dts-bundle-generator: ^5.9.0
   esbuild-register: ^2.6.0
