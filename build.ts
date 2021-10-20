@@ -7,5 +7,5 @@ await build({
   target: "node13.2",
   format: "cjs",
   bundle: true,
-  minify: true,
+  minify: false,
 });
