@@ -6,7 +6,7 @@ specifiers:
   '@types/node': ^17.0.2
   altair-graphql-core: 4.3.1
   altair-static: 4.3.1
-  bob-tsm: ^0.4.0-alpha-64ca079.0
+  bob-tsm: ^0.3.9
   concurrently: ^6.5.1
   dts-bundle-generator: ^6.2.0
   esbuild: ^0.14.7
@@ -20,7 +20,7 @@ devDependencies:
   '@types/node': 17.0.2
   altair-graphql-core: 4.3.1
   altair-static: 4.3.1
-  bob-tsm: 0.4.0-alpha-64ca079.0_esbuild@0.14.7
+  bob-tsm: 0.3.9_esbuild@0.14.7
   concurrently: 6.5.1
   dts-bundle-generator: 6.2.0
   esbuild: 0.14.7
@@ -310,8 +310,8 @@ packages:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
     dev: true
 
-  /bob-tsm/0.4.0-alpha-64ca079.0_esbuild@0.14.7:
-    resolution: {integrity: sha512-4CNM/ivQ1GIp+dj1DUBfL52KmPISjTvYTDIMVhL5s+V8QXNNybgxR+/m/KLfUcn0RS6O5XcyFo42lDkSmTPv9g==}
+  /bob-tsm/0.3.9_esbuild@0.14.7:
+    resolution: {integrity: sha512-CFeoYJUcNlvf4mKpGmJkFKL0ZQ8xjlZ1CnGyU/7Fk4sdUdQ4p2rvYDmOHZ1hAS0YPLMOdJ81aFzsOnwCdjc08w==}
     engines: {node: ^12.20.0 || >=14.13.0}
     hasBin: true
     peerDependencies:
