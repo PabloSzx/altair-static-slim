@@ -26,15 +26,15 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.13",
-    "@types/node": "^18.0.5",
-    "altair-graphql-core": "4.5.3",
-    "altair-static": "4.5.3",
-    "bob-tsm": "^1.1.0",
-    "concurrently": "^7.2.2",
-    "dts-bundle-generator": "^6.12.0",
-    "esbuild": "^0.14.49",
-    "fs-extra": "^10.1.0",
+    "@types/node": "^18.11.15",
+    "altair-graphql-core": "5.0.9",
+    "altair-static": "5.0.9",
+    "bob-tsm": "^1.1.2",
+    "concurrently": "^7.6.0",
+    "dts-bundle-generator": "^7.1.0",
+    "esbuild": "^0.16.7",
+    "fs-extra": "^11.1.0",
     "rimraf": "^3.0.2",
-    "typescript": "^4.7.4"
+    "typescript": "^4.9.4"
   }
 }
